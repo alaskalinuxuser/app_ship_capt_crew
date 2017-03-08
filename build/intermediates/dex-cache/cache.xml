@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2f6d911a32cacdfa61e066fcf432bfcb4ab25b21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2e20782382f2b1b665ebb0c4de9a4d235bf82104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7ba04fdecc18b57128caf98d1c2d37ea48361241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_3b4791e98b3642913d780662d889e6ad5b5e3154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c50a48bdb76b448a5729153ed1299580a8585777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_92b000ecbd1440dafeb9e4f132fc1c767c3c2a3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_91c96bc2c989187f6f5b7feef4a9fc3abe411895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_bf6176755deb47325e7ea07cd832a6644db075bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_326b1d31609fb43b073323bc0d8fc3cb3b8d3ad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_97b72bcb5805c8c915ab5dc3ce7f92b0d42969aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2ed5eaf8fd85a881d84585f57aee344eaf5dabcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_2d546f1f95f1c484bc7b7d2239dac3d075470969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8008ca06a85fef50155e6b3036db40d0e5804fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0cbbda4d3b9c25f262e8ad99a08193c50bbca00c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/alaskalinuxuser/AndroidStudioProjects/ShipCaptainandCrew/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4edc125974cd391aa1752a04d7b8b1bfe5291f8a.jar" />
+    </item>
+
+</items>
