@@ -143,7 +143,9 @@ public class MainActivity extends AppCompatActivity {
         // And, upon opening, let's reset the game, just in case.
         resetTheGame();
 
+        // On a nougat phone, the roll button was covering the "about" button. We can't have that.
         rollButton.setVisibility(View.INVISIBLE);
+
     }
 
     // Here is the method to reset the game pieces.
@@ -155,8 +157,8 @@ public class MainActivity extends AppCompatActivity {
         // Hide the keep it button, because you have not rolled yet.
         keepButton.setVisibility(View.INVISIBLE);
 
-        // And put back the roll button.
-        rollButton.setVisibility(View.VISIBLE);
+        // And keep he roll button invisible.
+        rollButton.setVisibility(View.INVISIBLE);
 
         // set the text.
         scoreCard.setText("0");
@@ -228,6 +230,7 @@ public class MainActivity extends AppCompatActivity {
 
         // And hide the winner view.
         winnerView.setVisibility(View.INVISIBLE);
+        winnerView.setAlpha(0f);
 
         // And the display question of number of players.
         layoutPlayers.setVisibility(LinearLayout.VISIBLE);
@@ -240,7 +243,7 @@ public class MainActivity extends AppCompatActivity {
         layoutVideo.setVisibility(LinearLayout.GONE);
 
         // And set the roll button visable again.
-        rollButton.setVisibility(View.VISIBLE);
+        rollButton.setVisibility(View.INVISIBLE);
 
     }
 
@@ -270,6 +273,9 @@ public class MainActivity extends AppCompatActivity {
 
             multiPlayers = false;
         }
+
+        // Now we can set the rollbutton to visable.
+        rollButton.setVisibility(View.VISIBLE);
 
     }
 
@@ -828,6 +834,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    // This allows us to keep all of the dice.
     public void keepIt (View view) {
 
         // When they want to keep what they have. It should only be an option when you are winning.
@@ -940,10 +947,12 @@ public class MainActivity extends AppCompatActivity {
 
                 // Set the winner view visible.
                 winnerView.setVisibility(View.VISIBLE);
+                winnerView.animate().alpha(1f).setDuration(1500);
 
                 // And hide the battleship and the top dice.
                 battleship.setAlpha(.0f);
                 dieOne.setAlpha(.0f);
+                keepButton.setVisibility(View.INVISIBLE);
 
                 // And the roll button.
                 rollButton.setVisibility(View.INVISIBLE);
@@ -1038,7 +1047,10 @@ public class MainActivity extends AppCompatActivity {
 
                 if (multiPlayers){
 
-                    // We have a winner!
+                    /* We could do something here, but for multiplayer mode, it is already
+                     * transitioning to the winner screen.
+                     * So there is no cause for action. This button should be invisable.
+                     */
 
                 } else {
 
