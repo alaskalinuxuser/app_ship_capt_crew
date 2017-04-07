@@ -950,8 +950,8 @@ public class MainActivity extends AppCompatActivity {
                 winnerView.animate().alpha(1f).setDuration(1500);
 
                 // And hide the battleship and the top dice.
-                battleship.setAlpha(.0f);
-                dieOne.setAlpha(.0f);
+                battleship.animate().alpha(.0f).setDuration(1000);
+                dieOne.animate().alpha(.0f).setDuration(1000);
                 keepButton.setVisibility(View.INVISIBLE);
 
                 // And the roll button.
@@ -959,7 +959,7 @@ public class MainActivity extends AppCompatActivity {
 
             } else {
 
-                // Make sure the winner view is not visable.
+                // Make sure the winner view is not visible.
                 winnerView.setVisibility(View.INVISIBLE);
 
             }

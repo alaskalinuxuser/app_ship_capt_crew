@@ -198,7 +198,7 @@
         android:textColor="@color/textingColor" />
 
     <Button
-        android:text="Keep it!"
+        android:text="Keep all!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/keepButton"
@@ -310,11 +310,13 @@
         android:visibility="visible">
 
         <VideoView
+            android:id="@+id/videoView"
             android:layout_width="match_parent"
             android:layout_height="344dp"
-            android:id="@+id/videoView"
-            android:onClick="enterGame"
-            android:layout_marginTop="20dp" />
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:layout_marginTop="20dp"
+            android:onClick="enterGame" />
 
         <TextView
             android:text="Ship, Captain, and Crew"
